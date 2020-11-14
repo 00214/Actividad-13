@@ -1,0 +1,35 @@
+[
+     {
+          "id": "Verde",
+          "origen_x": 100,
+          "origen_y": 230,
+          "destino_x": 140,
+          "destino_y": 250,
+          "velocidad": 20,
+          "red": 0,
+          "green": 143,
+          "blue": 57
+     },
+     {
+          "id": "Rojo",
+          "origen_x": 10,
+          "origen_y": 433,
+          "destino_x": 233,
+          "destino_y": 121,
+          "velocidad": 30,
+          "red": 255,
+          "green": 0,
+          "blue": 0
+     },
+     {
+          "id": "Azul",
+          "origen_x": 500,
+          "origen_y": 40,
+          "destino_x": 99,
+          "destino_y": 255,
+          "velocidad": 50,
+          "red": 0,
+          "green": 0,
+          "blue": 255
+     }
+]
